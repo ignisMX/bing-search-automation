@@ -1,0 +1,6 @@
+# Instrucciones
+
+# Requerimientos
+
+- xdotool
+- xclip
