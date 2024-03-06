@@ -48,7 +48,7 @@ file_name="busquedas.txt"
 
 # Obtener 30 líneas aleatorias del archivo
 lines_to_search=()
-for i in $(seq 1 30); do
+for i in $(seq 1 35); do
     lines_to_search+=("$(get_random_line "$file_name")")
 done
 
